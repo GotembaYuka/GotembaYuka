@@ -10,4 +10,7 @@
 💭｜Yuka0813のアドオン**バグ報告**もここで！  
 ＊～＊～＊～＊
 
-🏡🏃‍♂️🏃‍♀️🏃 **とりあえず入れ(?)**
+🏡🏃‍♂️🏃‍♀️🏃 **とりあえず入れ(?)**  
+[![ごて鯖Discord](https://raw.githubusercontent.com/GotembaYuka/GotembaYuka/refs/heads/main/goteserver.png)](https://discord.gg/7SnjrqKQeS)
+***
+[![ごて鯖](https://raw.githubusercontent.com/GotembaYuka/GotembaYuka/refs/heads/main/gote.jpg)](https://discord.gg/7SnjrqKQeS)
