@@ -11,7 +11,7 @@
 ＊～＊～＊～＊
 
 🏡🏃‍♂️🏃‍♀️🏃 **とりあえず入れ(?)**  
-[![ごて鯖Discord](https://raw.githubusercontent.com/GotembaYuka/GotembaYuka/refs/heads/main/goteserver.png)](https://discord.gg/7SnjrqKQeS)
+[![ごて鯖Discord](https://raw.githubusercontent.com/GotembaYuka/GotembaYuka/refs/heads/main/goteserver2.png)](https://discord.gg/7SnjrqKQeS)
 
 ***
 
