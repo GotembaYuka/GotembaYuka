@@ -12,3 +12,8 @@
 
 🏡🏃‍♂️🏃‍♀️🏃 **とりあえず入れ(?)**  
 [![ごて鯖Discord](https://raw.githubusercontent.com/GotembaYuka/GotembaYuka/refs/heads/main/goteserver.png)](https://discord.gg/7SnjrqKQeS)
+
+***
+
+**基本的にgithubのissuesやpull requestsには反応できません。**
+**バグ報告などは全て上記のDiscordサーバーにてお願いします！！**
