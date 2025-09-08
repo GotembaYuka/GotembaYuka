@@ -15,5 +15,5 @@
 
 ***
 
-**基本的にgithubのissuesやpull requestsには反応できません。**  
+**基本的にgithubのissuesやpull requestsは無視します。**  
 **バグ報告などは全て上記のDiscordサーバーにてお願いします！！**
